@@ -30,6 +30,11 @@ public class Calculadora {
     {
         return x / y;
     }
+
+    public double raiz (double x)
+    {
+        return Math.sqrt(x);
+    }
     
     
 }

@@ -23,6 +23,8 @@ public class Main {
         System.out.println(calc.multiplicar(2, 2));
 
         System.out.println(calc.dividir(5, 5));
+
+        System.out.println(calc.raiz(25));
         
     }
 }
